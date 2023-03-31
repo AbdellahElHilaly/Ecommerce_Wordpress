@@ -1,0 +1,50 @@
+2023-03-30T23:14:23+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:01+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:02+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:02+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:02+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:02+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:02+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:02+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:03+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:03+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:03+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:03+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:03+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:03+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:04+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:04+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:04+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:04+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:04+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:04+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:04+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:05+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:05+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:05+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:05+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:05+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:10+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:17+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:19+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:21+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:24+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:32+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:35+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:39+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:42+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:44+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:47+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:50+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:17:59+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:18:02+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:18:06+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:18:10+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:18:12+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:18:15+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-30T23:19:55+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit injectAddToCartEvent
+2023-03-30T23:19:55+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2023-03-30T23:20:03+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2023-03-30T23:20:03+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-03-30T23:20:05+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2023-03-30T23:20:05+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
